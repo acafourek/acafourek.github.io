@@ -48,10 +48,14 @@
 .about-icon {
    width: 10%;
    padding-right: 30px;
+   padding-top: 6px;
 
    img {
-       .mu-logo {
+       .mu-logo, .gannett-logo, .alumnispaces-logo, .latlong-logo {
            width: 30px;
+       }
+       .wpp-logo {
+           height: 30px;
        }
    }
 }
