@@ -51,12 +51,18 @@
    padding-top: 6px;
 
    img {
-       .mu-logo, .gannett-logo, .alumnispaces-logo, .latlong-logo {
-           width: 30px;
-       }
-       .wpp-logo {
-           height: 30px;
-       }
+        &.latlong-logo {
+            width: 30px;
+        }
+        &.mu-logo, &.alumnispaces-logo, &.alumnispaces-logo {
+            width: 40px;
+        }
+        &.gannett-logo {
+            width: 45px;
+        }
+        &.wpp-logo {
+            width: 50px;
+        }
    }
 }
 .about-text {
