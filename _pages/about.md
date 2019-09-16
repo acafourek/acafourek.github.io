@@ -26,7 +26,7 @@ redirect_from:
     <img class="gannett-logo" src="/images/Gannett.svg" alt="Logo of Gannett Co., Inc" />
 </div>
 <div class="about-content about-text">
-    Prior to Alumni Spaces, I was a Project/Product Manager at Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), joining as the 11th member of a team that grew to nearly 60 in 18 months while building white label social networks for publishing companies. I oversaw our Analytics product and full account relationship + deliverable projects for Meredith Corp, including sites for Parents Magazine, Better Homes & Gardens and Family Circle.
+    Project/Product Manager at Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), joining as the 11th member of a team that grew to nearly 60 in 18 months while building white label social networks for publishing companies. I oversaw our Analytics product and full account relationship + deliverable projects for Meredith Corp, including sites for Parents Magazine, Better Homes & Gardens and Family Circle.
 </div>
 
 <div class="about-icon about-content">
