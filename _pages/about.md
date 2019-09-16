@@ -14,8 +14,11 @@ Previously, I was the tech co-founder of <a href="http://alumnispaces.com/" titl
 
 Prior to Alumni Spaces, I was a Project/Product Manager at Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), joining as the 11th member of a team that grew to nearly 60 in 18 months while building white label social networks for publishing companies. I oversaw our Analytics product and full account relationship + deliverable projects for Meredith Corp, including sites for Parents Magazine, Better Homes & Gardens and Family Circle.
 
-I started my career as one of the four founding memebers of WPP's first social media strategy team at a portfolio agency called Outrider where we tried to convince major brands like Ford, Nokia and Land Rover that social media was worth taking seriously.
+I started my career at an agency called Outrider where I was a founding member of WPP's first social media strategy team. Our mandate was to convince brands like Ford, Nokia and Land Rover that social media was worth taking seriously, back when that wasn't so obvious.
 
+-----
+<div class="about-icon about-content"><img class="mu-logo" src="/images/University_of_Missouri.svg" alt="Stacked MU logo for the University of Missouri" /></div>
+<div class="about-content about-text">I graduated from the University of Missouri with a BA in Political Science, where I was also the vice president of the Missouri Students Association '06-'07.</div>
 
 
 Writing

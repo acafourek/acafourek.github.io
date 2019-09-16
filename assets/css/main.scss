@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.about-content {
+    display: block;
+    float: left;
+}
+.about-icon {
+   width: 10%;
+   padding-right: 30px;
+
+   img {
+       .mu-logo {
+           width: 30px;
+       }
+   }
+}
+.about-text {
+    width: 80%;
+}
