@@ -12,7 +12,7 @@ redirect_from:
     <img class="latlong-logo" src="/images/latlong.svg" alt="Logo of Lat Long, digital product development agency for science, travel and exploration" />
 </div>
 <div class="about-content about-text">
-    I'm an entrepreneur, developer, product manager hybrid. Most recently (2017) founded <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, where we build incredible products for clients in science, travel and exploration. We've pioneered new WordPress architectures using the latest Gutenberg capabilities for clients like Airstream, Apollo 16 Astronaut Charlie Duke and the LGBT Center of New York.
+    I'm an entrepreneur, developer, product manager hybrid. Currently leading the team at <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, where we build digital products for clients in science, travel and exploration. We specialize in guiding clients to new frontiers of their business with strategic services that guide nascent ideas into fully developed products. In addition, we've pioneered new WordPress architectures using the latest Gutenberg capabilities for clients like Airstream, Apollo 16 Astronaut Charlie Duke and the LGBT Center of New York.
 </div>
 
 <div class="about-icon about-content">
