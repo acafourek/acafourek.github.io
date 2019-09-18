@@ -69,3 +69,9 @@
     width: 87%;
     margin-bottom: 3em;
 }
+
+p {
+    &.talk_meta {
+        font-size: .8em;
+    }
+}
