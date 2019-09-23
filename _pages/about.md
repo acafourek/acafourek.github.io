@@ -33,7 +33,7 @@ redirect_from:
     <img class="wpp-logo" src="/images/wpp.svg" alt="Logo of WPP, global creative and advertising agency" />
 </div>
 <div class="about-content about-text">
-    I started my career at an agency called Outrider where I was a founding member of WPP's first social media strategy team. Our mandate was to convince brands like Ford, Nokia and Land Rover that social media was worth taking seriously, back when that wasn't so obvious.
+    Started my career at Outrider as a founding member of WPP's first social media strategy team. Our mandate was to convince brands like Ford, Nokia and Land Rover that social media was worth taking seriously, back when that wasn't so obvious.
 </div>
 
 -----
@@ -41,5 +41,5 @@ redirect_from:
     <img class="mu-logo" src="/images/University_of_Missouri.svg" alt="Stacked MU logo for the University of Missouri" />
 </div>
 <div class="about-content about-text">
-    I graduated from the University of Missouri with a BA in Political Science, where I was also the vice president of the Missouri Students Association '06-'07.
+    Graduated from the University of Missouri with a BA in Political Science, where I was also vice president of the Missouri Students Association '06-'07.
 </div>
