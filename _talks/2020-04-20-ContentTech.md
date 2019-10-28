@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/contenttech2020
 venue: "ContentTECH Summit"
-date: 20202-04-20
+date: 2020-04-20
 location: "San Diego, CA"
 ---
 
