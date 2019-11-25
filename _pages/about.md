@@ -12,7 +12,7 @@ redirect_from:
     <img class="latlong-logo" src="/images/latlong.svg" alt="Logo of Lat Long, digital product development agency for science, travel and exploration" />
 </div>
 <div class="about-content about-text">
-    I'm an entrepreneur, developer, product manager hybrid. Currently leading the team at <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, where we build digital products for clients in science, travel and exploration. We specialize in guiding clients to new frontiers of their business. We work on both the strategic and technical fronts to evolve nascent ideas into fully developed products. In addition, we've pioneered new WordPress architectures using the latest Gutenberg capabilities for clients like Airstream, Apollo 16 Astronaut Charlie Duke and the LGBT Center of New York.
+    I'm an entrepreneur, developer, product manager hybrid. Currently leading the team at <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, where we specialize in guiding clients to new frontiers of their business. We work on both the strategic and technical fronts to evolve nascent ideas into fully developed products. In the process, we've pioneered new WordPress architectures using the latest Gutenberg capabilities for clients like Airstream, Apollo 16 Astronaut Charlie Duke and the LGBT Center of New York.
 </div>
 
 <div class="about-icon about-content">
@@ -26,7 +26,7 @@ redirect_from:
     <img class="gannett-logo" src="/images/Gannett.svg" alt="Logo of Gannett Co., Inc" />
 </div>
 <div class="about-content about-text">
-    Project/Product Manager at Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), joining as the 11th member of a team that grew to nearly 60 in 18 months while building white label social networks for publishing companies. I oversaw our Analytics product and full account relationship + deliverable projects for Meredith Corp, including sites for Parents Magazine, Better Homes & Gardens and Family Circle.
+    I joined Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), as an Account Manager, becoming the 11th member of a team that grew to nearly 60 in 18 months. We built white label social networks for publishing companies like Gannett, Meredith and Honey Magazine. I was responsible for our relationship with Meredith Corp and eventually expanded to include project/product management roles, owning the full product/client lifecycle for our Ripple Analytics product and properties such as Parents, Better Homes & Gardens and Family Circle.
 </div>
 
 <div class="about-icon about-content">
@@ -41,5 +41,5 @@ redirect_from:
     <img class="mu-logo" src="/images/University_of_Missouri.svg" alt="Stacked MU logo for the University of Missouri" />
 </div>
 <div class="about-content about-text">
-    Graduated from the University of Missouri with a BA in Political Science, where I was also vice president of the Missouri Students Association '06-'07.
+    Graduated from the University of Missouri with a BA in Political Science, where I was also vice president of the Missouri Students Association.
 </div>
