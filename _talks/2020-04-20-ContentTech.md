@@ -14,7 +14,7 @@ We'll examine how block editors change every aspect of the game from site design
 
 This event transitioned to a virtual format and you can check out our presentation here:
 
-<div style="padding:66.18% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/441438696" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="position:relative;"><iframe src="https://player.vimeo.com/video/441438696" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 
