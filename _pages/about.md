@@ -26,7 +26,7 @@ redirect_from:
     <img class="gannett-logo" src="/images/Gannett.svg" alt="Logo of Gannett Co., Inc" />
 </div>
 <div class="about-content about-text">
-    I joined Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), as an Account Manager, becoming the 11th member of a team that grew to nearly 60 in 18 months. We built white label social networks for publishing companies like Gannett, Meredith and Honey Magazine. I was responsible for our relationship with Meredith Corp and eventually expanded to include project/product management roles, owning the full product/client lifecycle for our Ripple Analytics product and properties such as Parents, Better Homes & Gardens and Family Circle.
+    I joined Ripple6 (acq. <a href="https://www.gannett.com/" title="Gannett Co., Inc">Gannett</a>, '09), as an Account Manager, becoming the 11th member of a team that grew to nearly 60 in 18 months. We built white label social networks for publishing companies like Gannett, Meredith and Honey Magazine. I carried responsibility for our relationship with Meredith and eventually expanded to include project/product management roles, owning the full product/client lifecycle for our Ripple Analytics product and branded properties connected to Parents Magazine, Better Homes & Gardens and Family Circle.
 </div>
 
 <div class="about-icon about-content">
