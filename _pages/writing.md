@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Writing + Media"
+title: "In Writing + Media"
 permalink: /writing/
 author_profile: true
 ---
