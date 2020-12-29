@@ -1,3 +1,20 @@
+
+Andrew's Personal Site
+
+andrewcafourek.com
+
+
+* Default branch is `master` - set to use GitHub Pages
+* Run locally with `bundle exec jekyll liveserve` - this will launch the site at http://localhost:4000/
+* A lot of site attributes are defined in the `_config.yml` file - docs for how to use that file are [here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+     * If you make changes, you need to restart the server locally to see the updates
+
+* Helpful links: 
+     * Ste for the theme this is forked from: https://academicpages.github.io/
+     * And the site _that_ is forked from - contains al kinds of detailed usage information: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+------
+# Original README
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.

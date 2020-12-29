@@ -71,7 +71,36 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/acafourek"
+    - "https://instagram.com/acafourek"
+    - "https://www.linkedin.com/in/acafourek"
 
+  #SEO - Custom section
+jsonLD: '
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "image": "https://andrewcafourek.com/images/profile.jpg",
+    "jobTitle": "Entrepreneur, Web Developer, Product Leader",
+    "name": "Andrew Cafourek",
+    "alumniOf": "University of Missouri",
+    "birthPlace": "Austin, MN",
+    "height": "72 inches",
+    "gender": "male",
+    "memberOf": [
+        "Save Venice, Inc",
+        "Springs Improvement Society",
+        "Amagansett Improvement Society"
+    ],
+    "nationality": "American",
+    "url": "https://andrewcafourek.com",
+    "sameAs" : [
+        "https://twitter.com/acafourek",
+        "https://instagram.com/acafourek",
+        "https://www.linkedin.com/in/acafourek"
+    ]
+  }
+  '
 
 # Analytics
 analytics:
