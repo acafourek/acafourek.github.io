@@ -19,7 +19,7 @@ redirect_from:
     <img class="alumnispaces-logo" src="/images/Alumni_Spaces.svg" alt="Logo of Alumni Spaces" />
 </div>
 <div class="about-content about-text">
-    Previously, I was the tech co-founder of <a href="http://alumnispaces.com/" title="Alumni Spaces: platform for managing local alumni groups">Alumni Spaces</a>, a platform using highly-customized WordPress Multisite networks to manage and empower the local alumni group networks of major universities such as Missouri, Clemson, Florida State, UNC and Virginia Tech. Alumni Spaces was part of the 8th cohort of the <a href="https://www.eranyc.com/" title="Early stage fund and technology accelerator located in New York City that runs two, four month programs per year. Initial funding is $100,000.">Entrepreneurs Roundtable Accelerator</a> in NYC.
+    Previously, I was the tech co-founder of <a href="http://alumnispaces.com/" title="Alumni Spaces: platform for managing local alumni groups">Alumni Spaces</a>, a platform that blends organizational management, web publishing, fundraising and analytics tools to power the local alumni group networks of major universities such as Missouri, Clemson, Florida State, UNC and Virginia Tech. Alumni Spaces raised an independent seed round and was also part of the <a href="https://www.eranyc.com/" title="Early stage fund and technology accelerator located in New York City that runs two, four month programs per year. Initial funding is $100,000.">Entrepreneurs Roundtable Accelerator's</a> 8th cohort.
 </div>
 
 <div class="about-icon about-content">
