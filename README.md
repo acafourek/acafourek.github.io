@@ -8,10 +8,13 @@ andrewcafourek.com
 * Run locally with `bundle exec jekyll liveserve` - this will launch the site at http://localhost:4000/
 * A lot of site attributes are defined in the `_config.yml` file - docs for how to use that file are [here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
      * If you make changes, you need to restart the server locally to see the updates
+     * To make style changes, edit `/assets/css/main.scss`.
+        * If you arent seeing style changes applied, re-compile the theme with `bundle exec jekyll serve --config _config.yml,_config.dev.yml`
+
 
 * Helpful links: 
      * Ste for the theme this is forked from: https://academicpages.github.io/
-     * And the site _that_ is forked from - contains al kinds of detailed usage information: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+     * And the site _that_ is forked from - contains all kinds of detailed usage information: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 ------
 # Original README
 

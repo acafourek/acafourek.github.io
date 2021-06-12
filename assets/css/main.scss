@@ -75,3 +75,21 @@ p {
         font-size: .8em;
     }
 }
+
+.sidebar {
+    .carbon{
+        margin-top: 3em;
+        font-size: .8em;
+    
+        span {
+            &.carbonVol{
+                color: #228B22;
+                font-weight: bold;
+            }
+    
+            &.carbon-label{
+    
+            }
+        }
+    }
+}
