@@ -10,6 +10,7 @@ andrewcafourek.com
      * If you make changes, you need to restart the server locally to see the updates
      * To make style changes, edit `/assets/css/main.scss`.
         * If you arent seeing style changes applied, re-compile the theme with `bundle exec jekyll serve --config _config.yml,_config.dev.yml`
+* To publish changes, just commit to `master` branch
 
 
 * Helpful links: 

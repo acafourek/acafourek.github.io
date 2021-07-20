@@ -12,5 +12,5 @@ After leading the first national research effort to capture quantitative data ab
 
 An earlier draft of this report was also serialized in digital format and I presented the findings of this research at a conference of the Council for Advancement and Support of Education (CASE).
 
-[Get a copy of the whitepaper here](https://www.amazon.com/Fully-Funded-Outrageously-Successful-Chapter/dp/1612549624)
+[Get a copy of the white paper here](https://www.amazon.com/Fully-Funded-Outrageously-Successful-Chapter/dp/1612549624)
 
