@@ -3,7 +3,7 @@ title: "2017 Alumni Group Survey Insights Whitepaper"
 collection: writing
 permalink: /writing/alumni-insights
 excerpt: 'After leading the first national research effort to capture quantitative data about local alumni groups across the United States, I wrote this white paper report on our findings and recommendations.'
-date: 2017-09-05
+date: 2017-07-05
 venue: 'White Paper'
 paperurl: 'https://cafourekstorage.s3.us-east-1.amazonaws.com/Resume/materials/AlumniSpaces_2017AlumniGroupSurveyInsights.pdf'
 ---
