@@ -14,7 +14,7 @@ andrewcafourek.com
 
 
 * Helpful links: 
-     * Ste for the theme this is forked from: https://academicpages.github.io/
+     * Site for the theme this is forked from: https://academicpages.github.io/
      * And the site _that_ is forked from - contains all kinds of detailed usage information: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 ------
 # Original README

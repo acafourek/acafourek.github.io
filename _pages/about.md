@@ -9,17 +9,25 @@ redirect_from:
 ---
 
 <div class="about-icon about-content">
-    <img class="latlong-logo" src="/images/latlong.svg" alt="Logo of Lat Long, digital product development agency for science, travel and exploration" />
+    <img class="anthos-logo" src="images/Anthos.png" alt="Anthos Capital, Venture Capital firm" />
 </div>
 <div class="about-content about-text">
-    I'm an entrepreneur, developer, product manager hybrid. Currently leading the team at <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, where we specialize in leading product development, strategy and digital transformation efforts for clients exploring expansion or reinvention. We work on both the strategic and technical fronts to evolve nascent ideas into fully developed products for clients like <a href="https://airstreamsupplycompany.com/" target="_blank">Airstream</a>, <a href="https://charlieduke.com/" target="_blank">Apollo 16 Astronaut Charlie Duke</a>, the <a href="https://gaycenter.org/" target="_blank">LGBT Center of New York</a> and <a href="https://learningally.org/" target="_blank">Learning Ally</a>. In the process, we've also pioneered new WordPress architectures using the latest Gutenberg capabilities to create incredible digital publishing tools.
+    I'm a technologist with deep experience in the digital product lifecycle, operational digital transformation and the technical aspects of web development. I am currently <i>VP, Head of Tech</i> at <a href="https://anthoscapital.com">Anthos Capital</a> where I explore how emerging tech can evolve our internal workflows and tools.
+</div>
+
+<div class="about-icon about-content">
+    <img class="latlong-logo" src="/images/latlong.svg" alt="Logo of Lat Long, digital product development agency for science, travel and exploration" />
+</div>
+
+<div class="about-content about-text">
+    Previously, I was a Managing Partner of <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, specialized in leading product development, strategy and digital transformation efforts for clients exploring expansion or reinvention. We worked on both the strategic and technical fronts to evolve nascent ideas into fully developed products for clients like <a href="https://airstreamsupplycompany.com/" target="_blank">Airstream</a>, <a href="https://charlieduke.com/" target="_blank">Apollo 16 Astronaut Charlie Duke</a>, the <a href="https://gaycenter.org/" target="_blank">LGBT Center of New York</a> and <a href="https://learningally.org/" target="_blank">Learning Ally</a>. In the process, we pioneered new WordPress architectures using the latest Gutenberg capabilities to create incredible digital publishing tools.
 </div>
 
 <div class="about-icon about-content">
     <img class="alumnispaces-logo" src="/images/Alumni_Spaces.svg" alt="Logo of Alumni Spaces" />
 </div>
 <div class="about-content about-text">
-    Previously, I was the tech co-founder of <a href="http://alumnispaces.com/" title="Alumni Spaces: platform for managing local alumni groups">Alumni Spaces</a>, a platform that blends organizational management, web publishing, fundraising and analytics tools to power the local alumni group networks of major universities such as Missouri, Clemson, Florida State, UNC and Virginia Tech. Alumni Spaces raised an independent seed round and was also part of the <a href="https://www.eranyc.com/" title="Early stage fund and technology accelerator located in New York City that runs two, four month programs per year. Initial funding is $100,000.">Entrepreneurs Roundtable Accelerator's</a> 8th cohort.
+    I was the tech co-founder of <a href="http://alumnispaces.com/" title="Alumni Spaces: platform for managing local alumni groups">Alumni Spaces</a>, a platform that blends organizational management, web publishing, fundraising and analytics tools to power the local alumni group networks of major universities such as Missouri, Clemson, Florida State, UNC and Virginia Tech. Alumni Spaces raised an independent seed round and was also part of the <a href="https://www.eranyc.com/" title="Early stage fund and technology accelerator located in New York City that runs two, four month programs per year. Initial funding is $100,000.">Entrepreneurs Roundtable Accelerator's</a> 8th cohort.
 </div>
 
 <div class="about-icon about-content">
