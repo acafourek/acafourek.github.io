@@ -12,7 +12,7 @@ redirect_from:
     <img class="anthos-logo" src="images/Anthos.png" alt="Anthos Capital, Venture Capital firm" />
 </div>
 <div class="about-content about-text">
-    I'm a technologist with deep experience in the digital product lifecycle, operational digital transformation and the technical aspects of web development. I am currently <i>VP, Head of Tech</i> at <a href="https://anthoscapital.com">Anthos Capital</a> where I explore how emerging tech can evolve our internal workflows and tools.
+    I'm a technologist with deep experience in the digital product lifecycle, operational digital transformation and the technical aspects of web development. I am currently <i>VP, Head of Technology</i> at <a href="https://anthoscapital.com">Anthos Capital</a> where I explore how emerging tech can evolve our internal workflows and tools.
 </div>
 
 <div class="about-icon about-content">
