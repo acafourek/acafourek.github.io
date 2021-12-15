@@ -16,6 +16,13 @@ redirect_from:
 </div>
 
 <div class="about-icon about-content">
+    <img class="thunderbird-logo" src="images/Thunderbird.svg" alt="Thunderbird School of Global Management at Arizona State University" />
+</div>
+<div class="about-content about-text">
+	In 2022, I'll also be a member of the inaugural 25-student cohort for the <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Executive Masters of Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> offered by Thunderbird School of Global Management at Arizona State University.
+</div>
+
+<div class="about-icon about-content">
     <img class="latlong-logo" src="/images/latlong.svg" alt="Logo of Lat Long, digital product development agency for science, travel and exploration" />
 </div>
 

@@ -51,17 +51,17 @@
    padding-top: 6px;
 
    img {
-		&.anthos-logo {
-			width: 30px;
+		&.anthos-logo, &.thunderbird-logo{
+			width: 45px;
 		}
-        &.latlong-logo {
-            width: 30px;
-        }
+		&.latlong-logo {
+			width: 40px;
+		}
         &.mu-logo, &.alumnispaces-logo, &.alumnispaces-logo {
-            width: 40px;
+            width: 45px;
         }
         &.gannett-logo {
-            width: 45px;
+            width: 50px;
         }
         &.wpp-logo {
             width: 50px;
