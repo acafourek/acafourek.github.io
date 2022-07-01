@@ -19,7 +19,7 @@ redirect_from:
     <img class="thunderbird-logo" src="images/Thunderbird.svg" alt="Thunderbird School of Global Management at Arizona State University" />
 </div>
 <div class="about-content about-text">
-	In 2022, I'll also be a member of the inaugural 25-student cohort for the <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Executive Masters of Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> offered by Thunderbird School of Global Management at Arizona State University.
+	I'm also currently pursuing a Masters degree in <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> within the Thunderbird School of Global Management at Arizona State University.
 </div>
 
 <div class="about-icon about-content">
@@ -27,14 +27,14 @@ redirect_from:
 </div>
 
 <div class="about-content about-text">
-    Previously, I was a Managing Partner of <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, specialized in leading product development, strategy and digital transformation efforts for clients exploring expansion or reinvention. We worked on both the strategic and technical fronts to evolve nascent ideas into fully developed products for clients like <a href="https://airstreamsupplycompany.com/" target="_blank">Airstream</a>, <a href="https://charlieduke.com/" target="_blank">Apollo 16 Astronaut Charlie Duke</a>, the <a href="https://gaycenter.org/" target="_blank">LGBT Center of New York</a> and <a href="https://learningally.org/" target="_blank">Learning Ally</a>. In the process, we pioneered new WordPress architectures using the latest Gutenberg capabilities to create incredible digital publishing tools.
+    Previously, I was a Managing Partner of <a href="https://latlo.ng/" title="Lat Long: digital product development agency for science, travel and exploration">Lat Long</a>, leading product development, strategy and digital transformation efforts for clients exploring expansion or reinvention. We worked on both the strategic and technical fronts to evolve nascent ideas into fully developed products for clients like <a href="https://airstreamsupplycompany.com/" target="_blank">Airstream</a>, <a href="https://charlieduke.com/" target="_blank">Apollo 16 Astronaut Charlie Duke</a>, the <a href="https://gaycenter.org/" target="_blank">LGBT Center of New York</a> and <a href="https://learningally.org/" target="_blank">Learning Ally</a>. In the process, we pioneered new WordPress architectures using the latest Gutenberg capabilities to create incredible digital publishing tools.
 </div>
 
 <div class="about-icon about-content">
     <img class="alumnispaces-logo" src="/images/Alumni_Spaces.svg" alt="Logo of Alumni Spaces" />
 </div>
 <div class="about-content about-text">
-    I was the tech co-founder of <a href="http://alumnispaces.com/" title="Alumni Spaces: platform for managing local alumni groups">Alumni Spaces</a>, a platform that blends organizational management, web publishing, fundraising and analytics tools to power the local alumni group networks of major universities such as Missouri, Clemson, Florida State, UNC and Virginia Tech. Alumni Spaces raised an independent seed round and was also part of the <a href="https://www.eranyc.com/" title="Early stage fund and technology accelerator located in New York City that runs two, four month programs per year. Initial funding is $100,000.">Entrepreneurs Roundtable Accelerator's</a> 8th cohort.
+    I was the tech co-founder of <a href="http://alumnispaces.com/" title="Alumni Spaces: platform for managing local alumni groups">Alumni Spaces</a>, a platform that blends organizational management, web publishing, fundraising and analytics tools to power local alumni group networks for major universities such as Missouri, Clemson, Florida State, UNC and Virginia Tech. In addition to serving clients changing the face of higher education funding, we also raised outside funding ourselves and were a part of the <a href="https://www.eranyc.com/" title="Early stage fund and technology accelerator located in New York City that runs two, four month programs per year. Initial funding is $100,000.">Entrepreneurs Roundtable Accelerator's</a> 8th cohort.
 </div>
 
 <div class="about-icon about-content">
