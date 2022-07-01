@@ -19,7 +19,7 @@ redirect_from:
     <img class="thunderbird-logo" src="images/Thunderbird.svg" alt="Thunderbird School of Global Management at Arizona State University" />
 </div>
 <div class="about-content about-text">
-	I'm also currently pursuing a Masters degree in <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> within the Thunderbird School of Global Management at Arizona State University.
+	I'm also pursuing a Masters degree in <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> within the Thunderbird School of Global Management at Arizona State University.
 </div>
 
 <div class="about-icon about-content">
