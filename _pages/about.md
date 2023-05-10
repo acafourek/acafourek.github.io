@@ -12,14 +12,14 @@ redirect_from:
     <img class="anthos-logo" src="images/Anthos.png" alt="Anthos Capital, Venture Capital firm" />
 </div>
 <div class="about-content about-text">
-    I'm a technologist with deep experience in the digital product lifecycle, operational digital transformation and the technical aspects of web development. I am currently <i>VP, Head of Technology</i> at <a href="https://anthoscapital.com">Anthos Capital</a> where I explore how emerging tech can evolve our internal workflows and tools.
+    I'm a technologist with deep experience in the digital product lifecycle, operational digital transformation and the technical aspects of web development. I am currently <i>VP, Head of Technology</i> at <a href="https://anthoscapital.com">Anthos Capital</a> where I serve as the digital officer of the firm, managing our technical infrastructure and explore how emerging tech can evolve internal workflows and digital toolkit.
 </div>
 
 <div class="about-icon about-content">
     <img class="thunderbird-logo" src="images/Thunderbird.svg" alt="Thunderbird School of Global Management at Arizona State University" />
 </div>
 <div class="about-content about-text">
-	I'm also pursuing a Masters degree in <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> within the Thunderbird School of Global Management at Arizona State University.
+	In 2022, I was a member of the first cohort to receive a Master's degree in <i><a href="https://thunderbird.asu.edu/graduate/executive-master-of-global-management-space">Global Management with a Specialization in Space Leadership, Business, and Policy</a></i> from the Thunderbird School of Global Management at Arizona State University.
 </div>
 
 <div class="about-icon about-content">
