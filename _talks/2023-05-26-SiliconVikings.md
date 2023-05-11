@@ -1,5 +1,5 @@
 ---
-title: "Silicon Vikings: New Nordics Pitch Competition"
+title: "Silicon Vikings: 2023 New Nordics Pitch Competition"
 collection: talks
 type: "Competition Judge"
 permalink: /talks/siliconvikings2023
