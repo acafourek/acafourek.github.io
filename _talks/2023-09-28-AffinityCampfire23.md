@@ -1,5 +1,5 @@
 ---
-title: "Affiniyt Campfire 2023: Hurry Up and Wait: Digitizing in Down Markets"
+title: "Affinity Campfire 2023: Hurry Up and Wait: Digitizing in Down Markets"
 collection: talks
 type: "Panelist"
 permalink: /talks/affinitycampfire2023
